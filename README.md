@@ -1,2 +1,3 @@
-# Projeto jogo da forca
- para ser executado no terminal
+# JOGO DA FORCA
+
+Projeto nodejs a ser executado no terminal pelo arquivo jogodaforca.js
